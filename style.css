@@ -12,7 +12,7 @@ html{
       background-color: aqua;
       height: 90vh;
   }
-  :hover{
+  .content li:hover{
     background-color: rgb(255, 0, 255);
     border-radius: 10px;
     transition: 0.5s;
