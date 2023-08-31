@@ -1,0 +1,40 @@
+<style>
+html{
+  background-color: rgb(243, 239, 235);
+}
+  #logo{
+      font-family: 'Great Vibes', cursive;
+      font-weight: bolder;
+      font-size: 30px;
+      padding: 1rem 1rem;
+  }
+  main{
+      
+  }
+  .container{
+    background-color: rgb(0, 255, 255);
+    margin: 1rem 1rem;
+  }
+  .img{
+    display: flex;
+    justify-content: center;
+  }
+  .img > img{
+    border-radius: 50%;
+  }
+  .row{
+    padding: 3rem 1rem;
+  }
+  .bio{
+    text-align: center;
+    padding-top: 2rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  footer{
+    height: 100px;
+    text-align: center;
+    background-color: rgb(184, 131, 63);
+    color: rgb(216, 12, 12);
+  }
+
+</style>
