@@ -9,7 +9,13 @@ html{
       padding: 1rem 1rem;
   }
   main{
-      
+      background-color: aqua;
+      height: 90vh;
+  }
+  :hover{
+    background-color: rgb(255, 0, 255);
+    border-radius: 10px;
+    transition: 0.5s;
   }
   .container{
     background-color: rgb(0, 255, 255);
