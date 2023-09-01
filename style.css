@@ -8,8 +8,9 @@ html{
       padding: 1rem 1rem;
   }
   main{ 
-    
+    text-align: center;
   }
+
   .content li:hover{
     background-color: rgb(255, 0, 255);
     border-radius: 10px;
