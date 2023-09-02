@@ -9,6 +9,7 @@ html{
   }
   main{ 
     text-align: center;
+  
   }
 
   .content li:hover{
@@ -16,10 +17,7 @@ html{
     border-radius: 10px;
     transition: 0.5s;
   }
-  .container{
-    background-color:;
-    margin: 1rem 1rem;
-  }
+ 
   .img{
     display: flex;
     justify-content: center;
@@ -27,9 +25,7 @@ html{
   .img > img{
     border-radius: 50%;
   }
-  .row{
-    padding: 3rem 1rem;
-  }
+  
   .logo{
     font-size: 50%;
   }
@@ -38,12 +34,13 @@ html{
   }
   .bio{
     text-align: center;
-    padding-top: 2rem;
+    padding: 3rem 2rem;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(170, 202, 141);
   }
   footer{
     height: 100px;
     text-align: center;
-    background-color: aquamarine;
-    color: rgb(216, 12, 12);
+    background-color: rgb(217, 233, 228);
+    color: rgb(20, 7, 7);
   }
